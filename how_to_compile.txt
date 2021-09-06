@@ -1,0 +1,2 @@
+mcs hoge.cs
+mono hoge.exe
